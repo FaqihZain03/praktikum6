@@ -1,0 +1,49 @@
+h1{
+    color: blueviolet;
+}
+#header{
+    background-color: chartreuse;
+}
+#header{
+    text-align: center;
+}
+blockquote{
+    background-color: cyan;
+}
+.dek{
+    text-align: center;
+}
+.gambar img{
+    width: 23%;
+    
+}
+
+.gambar{
+    text-align: center;
+}
+body{
+    background-color: darkgray;
+}
+.koleksi{
+    text-align: center;
+}
+.koleksi img{
+    width: 23%;
+}
+.burung{
+    font-size: 50px;
+    color: blue;
+}
+.promo h3{
+    margin: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.promo h3{
+    background-color: aqua;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
